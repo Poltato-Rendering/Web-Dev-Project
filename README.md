@@ -1,1 +1,3 @@
-<a href="main.html">main</a>
+---
+permalink: /main.html
+---
